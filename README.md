@@ -14,6 +14,10 @@ This dashboard answers the following business questions:
 3. Determine the most profitable product and the most loss-making product.
 4. Analyze Sales by Customer Segment.
 
+## Dataset
+
+https://www.kaggle.com/datasets/bitricks/superstore-dataset
+
 ## Tools & Technologies Used
 
 - Power BI
